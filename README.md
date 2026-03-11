@@ -1,4 +1,6 @@
 # RandNLA Whitening Engine (`inv_sqrt_yan`)
+![a319cdb74df88625c4dc3a9749cad5f6](https://github.com/user-attachments/assets/ad6fa5ae-c769-4309-9e84-74ac44473c68)
+
 
 **Author:** Zhang Xiaolong (Lord of the Manifolds / 流形之主：张小龙)
 
