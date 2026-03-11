@@ -42,7 +42,7 @@ M_inv_sqrt = inv_sqrt_yan(M, k=K)
 
 Traditional $O(N^3)$ algorithms (like SciPy's `sqrtm` and `inv`) suffer from severe performance degradation, cache pollution, and thermal throttling as matrix dimensions scale and sustained loads increase. The `inv_sqrt_yan` engine maintains stable, low-millisecond execution times regardless of continuous throughput.
 
-### Isolated Physical Environment Benchmark (CPU)
+### Isolated Physical Environment Benchmark (CPU)(AMD 9950X)
 
 Tested on standard consumer-grade CPU architecture under 100 continuous iterations, eliminating L3 cache interference between baseline and the optimized engine.
 
